@@ -1,0 +1,540 @@
+    1  javac --vrsion
+    2  javac --version
+    3  nano Hello.java
+    4  nano Hello.java
+    5  javac Hello.java
+    6  nano Hello.java
+    7  javac Hello.java
+    8  ls
+    9  java Hello
+   10  nona BinarySort.java
+   11  nano BinarySort.java
+   12  ls
+   13  java BinarySort
+   14  nona BinarySort
+   15  nano BinarySort
+   16  nano BinarySort
+   17  nano BinarySort.java
+   18  javac BinarySort.java
+   19  nano BinarySort.java
+   20  javac BinarySort.java
+   21  ls
+   22  java BinarySort
+   23  nano BinarySort.java
+   24  javac BinarySort.java
+   25  ls
+   26  java BinarySort
+   27  nano BinarySort.java
+   28  javac BinarySort.java
+   29  nano BinarySort.java
+   30  javac BinarySort.java
+   31  ls
+   32  java BinarySort
+   33  nano BinarySort.java
+   34  javac BinarySearch.java
+   35  nano Search/BinarySearch/BinarySearch.java
+   36  nano Search/BinarySearch/BinarySearch.java
+   37  javac BinarySearch.java
+   38  javac Search/BinarySearch/BinarySearch.java
+   39  nano Search/BinarySearch/BinarySearch.java
+   40  javac Search/BinarySearch/BinarySearch.java
+   41  nano Search/BinarySearch/BinarySearch.java
+   42  javac Search/BinarySearch/BinarySearch.java
+   43  ls
+   44  java Search/BinarySearch/BinarySearch
+   45  nano Search/BinarySearch/BinarySearch.java
+   46  javac Search/BinarySearch/BinarySearch.java
+   47  java Search/BinarySearch/BinarySearch
+   48  nano Search/BinarySearch/BinarySearch.java
+   49  javac Search/BinarySearch.BinarySearch.java
+   50  javac Search/BinarySearch/BinarySearch.java
+   51  java Search/BinarySearch/BinarySearch
+   52  java BinarySearch
+   53  java -cp Search/BinarySearch/BinarySearch
+   54  java -cp BinarySearch
+   55  java Search.BinarySearch.BinarySearch
+   56  java -cp . Search/BinarySearch/BinarySearch
+   57  java -cp . /Search/BinarySearch/BinarySearch
+   58  javac Search/BinarySearch/BinarySearch.java
+   59  java Search/BinarySearch/BinarySearch/
+   60  java Search/BinarySearch/BinarySearch
+   61  java -cp . Search/BinarySearch/BinarySearch
+   62  java -cp Search/BinarySearch/BinarySearch
+   63  java -classpath . Search/BinarySearch/BinarySearch
+   64  java -classpath Search/BinarySearch/BinarySearch
+   65  nano BinarySearch.java
+   66  nano Search/BinarySearch/BinarySearch.java
+   67  javac Search/BinarySearch/BinarySearch.java
+   68  ls
+   69  java Search/BinarySearch/BinarySearch
+   70  nona BinarySearch.java
+   71  nano BinarySearch.java
+   72  javac BinarySearch.java
+   73  ls
+   74  java BinarySearch
+   75  nano BinarySearch.java
+   76  javac BinarySearch.java
+   77  ls
+   78  java BinarySearch
+   79  nano BinarySearch.java
+   80  javac BinarySearch.java
+   81  java BinarySearch
+   82  javac Search/BinarySearch/src/BinarySearch.java
+   83  ls
+   84  pwd
+   85  javac ./Search/BinarySearch/BinarySearch.java
+   86  javac /Search/BinarySearch/BinarySearch.java
+   87  javac Search/BinarySearch/BinarySearch.java
+   88  pwd
+   89  javac /Search/BinarySearch/src/BinarySearch.java
+   90  javac Search/BinarySearch/src/BinarySearch.java
+   91  ls
+   92  javac -d bin Search/BinarySearch/BinarySearch.java
+   93  javac -d Search/BinarySearch/bin src -classpath Search/BinarySearch/src/BinarySearch.java
+   94  javac -d Search/BinarySearch/bin Search/BinarySearch/src/BinarySearch.java
+   95  ls
+   96  java -classpath bin:Search/BinarySearch/bin/BinarySearch
+   97  java -classpath bin:BinarySearch
+   98  java Search/BinarySearch.BinarySearch
+   99  java Search/BinarySearch/BinarySearch
+  100  Search/BinarySearch/bin/BinarySearch\n
+  101  java Search/BinarySearch/bin.BinarySearch\n
+  102  java -classpath . BinarySearch
+  103  java -classpath bin:BinarySearch
+  104  java -classpath bin/BinarySearch
+  105  java bin/BinarySearch
+  106  java Search.BinarySearch.bin.BinarySearch
+  107  java Search/BinarySearch/bin/BinarySearch
+  108  pwd
+  109  java /Search/BinarySearch/bin/BinarySearch
+  110  java -d bin/BinarySearch
+  111  java -d bin
+  112  java -cp bin/BinarySearch
+  113  java -cp . Search/BinarySearch/bin/BinarySearch
+  114  java -cp Search/BinarySearch/bin/BinarySearch
+  115  java Search.BinarySearch.bin.BinarySearch
+  116  java Search/BinarySearch/bin.BinarySearch
+  117  java /Users/evgeniiachak/Search/BinarySearch/bin/BinarySearch
+  118  java BinarySearch
+  119  java -classpath bin:BinarySearch
+  120  java -classpath bin:/BinarySearch
+  121  java -classpath BinarySearch
+  122  java -cp BinarySearch
+  123  java Search/BinarySearch/bin/BinarySearch
+  124  pwd
+  125  java -cp /Search/BinarySearch/bin/BinarySearch
+  126  java -cp . BinarySearch
+  127  java -cp . Search/BinarySearch/bin/BinarySearch
+  128  java Search/BinarySearch/bin/BinarySearch
+  129  java -cp . bin/BinarySearch
+  130  java -cp /Library/Java/JavaVirtualMachines/jdk-18.0.1.jdk/Contents/Home/bin BinarySearch
+  131  java -cp . BinarySearch
+  132  java Search/BinarySearch/bin/BinarySearch
+  133  java /Users/evgeniiachak/Search/BinarySearch/bin/BinarySearch
+  134  java -cp . Search/BinarySearch/bin/BinarySearch
+  135  nano BinarySearch.java
+  136  nano Search/BinarySearch/src/BinarySearch
+  137  pwd
+  138  nano Search/BinarySearch/src/BinarySearch.java
+  139  java Search/BinarySearch/bin.BinarySearch
+  140  java bin.BinarySearch
+  141  nano Search/BinarySearch/src/BinarySearch.java\n
+  142  java Search.BinarySearch.bin.BinarySearch
+  143  nano Search/BinarySearch/src/BinarySearch
+  144  nano 
+  145  nano Search/BinarySearch/src/BinarySearch.java\n
+  146  java Search/BinarySearch/bin/BinarySearch
+  147  mkdir bin
+  148  java BinarySearch
+  149  nano Search/BinarySearch/src/BinarySearch.java\n
+  150  ls
+  151  java -classpath bin:/Search/BinarySearch/src/BinarySearch BinarySearch
+  152  java -classpath bin:/BinarySearch
+  153  java -cp . Search/BinarySearch/bin/BinarySearch
+  154  javac BinarySearch.java
+  155  ls
+  156  java BinarySearch
+  157  javac Search/BinarySearch.java
+  158  ls
+  159  ls Search
+  160  java Search/BinarySearch
+  161  java -cp . Search/BinarySearch
+  162  java -cp Search/BinarySearch
+  163  nano Search/BinarySearch.java
+  164  javac Search/BinarySearch.java
+  165  nano Search/BinarySearch.java
+  166  javac Search/BinarySearch.java
+  167  java Search.BinarySearch
+  168  java Search/BinarySearch/BinarySearch.java
+  169  javac Search/BinarySearch/BinarySearch.java
+  170  ls
+  171  java BinarySearch/Search.java
+  172  nano Search/BinarySearch/BinarySearch.java
+  173  javac Search/BinarySearch/BinarySearch.java
+  174  java Search.BinarySearch.BinarySearch
+  175  nano Search/BinarySearch/src/BinarySearch.java
+  176  javac -d bin Search/BinarySearch/src/BinarySearch.java
+  177  java BinarySearch
+  178  java -classpath BinarySearch
+  179  java -classpath Search/BinarySearch/bin/BinarySearch
+  180  java -classpath Search/BinarySearch/src/BinarySearch
+  181  javac -d Search/BinarySearch/src/BinarySearch.java
+  182  javac -d bin Search/BinarySearch/src/BinarySearch.java\n
+  183  nano Search/BinarySearch.java
+  184  javac Search/BinarySearch.java 
+  185  java Search/BinarySearch
+  186  java -cp Search/BinarySearch
+  187  java -cp . Search/BinarySearch
+  188  java -cp. Search/BinarySearch
+  189  java -classpath Search/BinarySearch
+  190  java -classpath . Search/BinarySearch
+  191  java Searh.BinarySearch
+  192  java -classpath ./Search BinarySearch
+  193  javac -d bin Search/BinarySearch/src/BinarySearch.java
+  194  java -classpath ./Search/BinarySearch/bin/BinarySearch
+  195  java -classpath ./Search/BinarySearch/bin/BinarySearch
+  196  java -classpath ./Search/BinarySearch/bin BinarySearch
+  197  java -classpath ./bin BinarySearch
+  198  java -cp . BinarySearch
+  199  java -cp ./bin BinarySearch
+  200  javac -d Search/BinarySearch/bin Search/BinarySearch/src/BinarySearch.java
+  201  java -cp ./bin BinarySearch
+  202  java -cp ./bin BinarySearch
+  203  java -cp ./Search/BinarySearch/bin BinarySearch
+  204  java -cp ./bin BinarySearch
+  205  nano Search/BinarySearch/src/BinarySearch.java
+  206  nano LinkedList.java
+  207  javac LinkedList.java
+  208  nano LinkedList.java
+  209  javac LinkedList.java
+  210  nano LinkedList.java
+  211  javac LinkedList.java
+  212  java LinkedList
+  213  nano LinkedList.java
+  214  javac LinkedList.java
+  215  nano LinkedList.java
+  216  javac LinkedList.java
+  217  java LinkedList
+  218  nano LinkedList.java
+  219  javac LinkedList.java
+  220  nano LinkedList.java
+  221  javac LinkedList.java
+  222  java LinkedList
+  223  nano LinkedList.java
+  224  nano JAVA/DataStructure/LinkedList/src/Node.java
+  225  nano JAVA/DataStruucture/LinkedList/src/Node.java
+  226  nano JAVA/DataStructure/LinkedList/src/Noda.java
+  227  nano JAVA/DataStructure/LinkedList/src/Noda.java\n
+  228  nano JAVA/DataStructure/LinkedList/src/LinkedListMain.java
+  229  jacac -d JAVA/DataStructure/LinkedList/bin JAVA/DataStructure/LinkedList/src/LinkedList.java\n\n
+  230  javac -d JAVA/DataStructure/LinkedList/bin JAVA/DataStructure/LinkedList/src/LinkedList.java
+  231  javac -d JAVA/DataStructure/LinkedList/bin JAVA/DataStructure/LinkedList/src/Noda.java
+  232  nano JAVA/DataStructure/LinkedList/bin JAVA/DataStructure/LinkedList/src/Noda.java
+  233  javac -d JAVA/DataStructure/LinkedList/bin JAVA/DataStructure/LinkedList/src/Noda.java
+  234  nano JAVA/DataStructure/LinkedList/src/LinkedList.java
+  235  nano JAVA/DataStructure/LinkedList/src/Noda.java
+  236  javac -d JAVA/DataStructure/LinkedList/bin JAVA/DataStructure/LinkedList/src/Noda.java
+  237  nano JAVA/DataStructure/LinkedList/src/LinkedList.java
+  238  javac -d /*\nЭтот класс Noda будет представлять узел,\nкаждый узел в связанном списке хранит значение, представленное в нашем коде полем data,\nи указатель на следующий узел, который будет представлен в нашем коде полем next.\nВнутри этого класса мы создали метод, который просто распечатает данные,\nчтобы в конце мы могли увидеть наши результаты.\n*/\n\nclass Noda {\n        public int data;\n        public Noda next;\n\n        public void displayNodeData() {\n                System.out.print( data +  " -> ");\n        }\n}\n
+  239  javac -d JAVA/DataStructure/LinkedList/bin JAVA/DataStructure/LinkedList/src/LinkedList.java 
+  240  java -cp ./JAVA/DataStructure/LinkedList/bin LinkedList
+  241  javac -d JAVA/DataStructure/LinkedList/bin JAVA/DataStructure/LinkedList/src/LinkedListMain.java 
+  242  nano JAVA/DataStructure/LinkedList/src/LinkedListMain.java 
+  243  javac -d JAVA/DataStructure/LinkedList/bin JAVA/DataStructure/LinkedList/src/LinkedListMain.java 
+  244  nano JAVA/DataStructure/LinkedList/src/LinkedListMain.java 
+  245  nano Java/DataStructure/LinkedList/src/LinkedList.java
+  246  [200~javac -d JAVA/DataStructure/LinkedList/bin JAVA/DataStructure/LinkedList/src/LinkedListMain.java ~
+  247  javac -d JAVA/DataStructure/LinkedList/bin JAVA/DataStructure/LinkedList/src/LinkedListMain.java
+  248  nano JAVA/DataStructure/LinkedList/src/LinkedListMain.java
+  249  javac -d JAVA/DataStructure/LinkedList/bin JAVA/DataStructure/LinkedList/src/LinkedListMain.java
+  250  javac -d JAVA/DataStructure/LinkedList/bin JAVA/DataStructure/LinkedList/src/LinkedListMain.javanano JAVA/DataStructure/LinkedList/src/LinkedListMain.java 
+  251  nano JAVA/DataStructure/LinkedList/src/LinkedListMain.java 
+  252  javac -d JAVA/DataStructure/LinkedList/bin JAVA/DataStructure/LinkedList/src/LinkedListMain.java
+  253  nano JAVA/DataStructure/LinkedList/src/LinkedListMain.java 
+  254  javac -d JAVA/DataStructure/LinkedList/bin JAVA/DataStructure/LinkedList/src/LinkedListMain.java
+  255  nano JAVA/DataStructure/LinkedList/src/LinkedListMain.java
+  256  javac -d JAVA/DataStructure/LinkedList/bin JAVA/DataStructure/LinkedList/src/LinkedListMain.java
+  257  nano JAVA/DataStructure/LinkedList/src/LinkedListMain.java
+  258  javac -d JAVA/DataStructure/LinkedList/bin JAVA/DataStructure/LinkedList/src/LinkedListMain.java
+  259  nano JAVA/DataStructure/LinkedList/src/LinkedListMain.java
+  260  javac -d JAVA/DataStructure/LinkedList/bin JAVA/DataStructure/LinkedList/src/LinkedListMain.java
+  261  nano JAVA/DataStructure/LinkedList/src/LinkedList.java
+  262  nano JAVA/DataStructure/LinkedList/src/LinkedListMain.java
+  263  javac JAVA/DataStructure/LinkedList/src/LinkedListMain.java
+  264  nano JAVA/DataStructure/LinkedList/src/LinkedListMain.java
+  265  nano JAVA/DataStructure/LinkedList/src/LinkedList.java
+  266  java JAVA/DataStructure/LinkedList/src/LinkedList.java
+  267  nano JAVA/DataStructure/LinkedList/src/LinkedListMain.java
+  268  javac JAVA/DataStructure/LinkedList/src/LinkedListMain.java
+  269  javac JAVA/DataStructure/LinkedList/src/LinkedListMain.java
+  270  JAVA/DataStructure/LinkedList/src/LinkedListMain.java
+  271  nano JAVA/DataStructure/LinkedList/src/LinkedListMain.java
+  272  nano JAVA/DataStructure/LinkedList/src/LinkedList.java
+  273  javac JAVA/DataStructure/LinkedList/src/*
+  274  javac -d bin JAVA/DataStructure/LinkedList/src/*
+  275  javac -d JAVA/DataStructure/LinkedList/bin JAVA/DataStructure/LinkedList/src/*
+  276  javac -d JAVA/DataStructure/LinkedList/bin JAVA/DataStructure/LinkedList/src/*
+  277  java -d JAVA/DataStructure/LinkedList/bin ./JAVA/DataStructure/LinkedList/src/*
+  278  javac -d JAVA/DataStructure/LinkedList/bin ./JAVA/DataStructure/LinkedList/src/*
+  279  javac -d JAVA/DataStructure/LinkedList/bin JAVA/DataStructure/LinkedList/src/*
+  280  java -cp ./JAVA/DataStructure/LinkedList/bin JAVA/DataStructure/LinkedList/src/LinkedListMain
+  281  java -cp JAVA/DataStructure/LinkedList/bin/src/ JAVA/DataStructure/LinkedList/src/LinkedListMain
+  282  java -cp JAVA/DataStructure/LinkedList/bin src.LinkedListMain
+  283  nano JAVA/DataStructure/LinkedList/src/LinkedList.java
+  284  nano JAVA/DataStructure/LinkedList/src/LinkedListMain.java
+  285  javac -d JAVA/DataStructure/LinkedList/bin JAVA/DataStructure/LinkedList/src/* 
+  286  JAVA/DataStructure/LinkedList/src/LinkedList.java
+  287  nano JAVA/DataStructure/LinkedList/src/LinkedList.java
+  288  javac -d JAVA/DataStructure/LinkedList/bin JAVA/DataStructure/LinkedList/src/* 
+  289  nano JAVA/DataStructure/LinkedList/src/LinkedListMain.java
+  290  javac -d JAVA/DataStructure/LinkedList/bin JAVA/DataStructure/LinkedList/src/* 
+  291  java -cp JAVA/DataStructure/LinkedList/bin src.LinkedListMain
+  292  pwd
+  293  nano src/SelectionSort.java
+  294  javac -d bin src/SelectionSort.java
+  295  nano src/SelectionSort.java
+  296  javac -d bin src/SelectionSort.java
+  297  nano src/SelectionSort.java
+  298  javac -d bin src/SelectionSort.java
+  299  java -cp bin SelectionSort
+  300  nano src/SelectionSort.java
+  301  nano rev
+  302  javac rev.java
+  303  rwd
+  304  r
+  305  rwd
+  306  wrd
+  307  dwr
+  308  rwd
+  309  wde
+  310  dwe
+  311  drw
+  312  nano rev.java
+  313  javac rev.java
+  314  java rev
+  315  nano rev.java
+  316  javac rev.java
+  317  java rev
+  318  nano rev
+  319  nano rev.java
+  320  javac rev.java
+  321  java rev
+  322  nano rev.java
+  323  javac rev.java
+  324  java rev
+  325  nano re.java
+  326  nano rev.java
+  327  nano src/Recirsuin.java
+  328  nano src/Recursion.java
+  329  javac Recursion.java
+  330  javac -d bin src/Recursion.java
+  331  nano src/Recursion.java
+  332  javac -d bin src/Recursion.java
+  333  java -cp bin Recursion
+  334  nano src/Recursion.java
+  335  javac -d bin src/Recursion.java
+  336  java -cp bin Recursion
+  337  nano src/Recursion.java
+  338  javac -d bin src/Recursion.java
+  339  java -cp bin Recursion
+  340  nano src/Recursion.java
+  341  nano src/Sum.java
+  342  javac -d bin src/Sum.java
+  343  java -cp bin Sum
+  344  nano src/Sum.java
+  345  nano src/Sum.java
+  346  javac -d bin src/Sum.java
+  347  java -cp bin Sum
+  348  nano src/Sum.java
+  349  avac -d bin src/Sum.java
+  350  javac -d bin src/Sum.java
+  351  java -cp bin Sum
+  352  nano src/Sum.java
+  353  javac -d bin src/Sum.java
+  354  nano src/Sum.java
+  355  javac -d bin src/Sum.java
+  356  java -cp bin Sum
+  357  nano src/Sum.java
+  358  javac -d bin src/Sum.java
+  359  java -cp bin Sum
+  360  nano src/Sum.java
+  361  javac -d bin src/Sum.java
+  362  java -cp bin Sum
+  363  nano src/Sum.java
+  364  nano src/Sum.java
+  365  javac -bin src/Sum.java
+  366  javac -d bin src/Sum.java
+  367  nano src/Sum.java
+  368  javac -d bin src/Sum.java
+  369  nano src/Sum.java
+  370  javac -d bin src/Sum.java
+  371  nano src/Sum.java
+  372  javac -d bin src/Sum.java
+  373  java -cp bin Sum
+  374  nano src/Sum.java 
+  375  javac -d bin src/Sum.java
+  376  nano src/Sum.java 
+  377  javac -d bin src/Sum.java
+  378  nano src/Sum.java 
+  379  javac -d bin src/Sum.java
+  380  nano src/Sum.java 
+  381  javac -d bin src/Sum.java
+  382  nano src/Sum.java 
+  383  javac -d bin src/Sum.java
+  384  java -cp bin Sum
+  385  nano src/Sum.java 
+  386  javac -d bin src/Sum.java
+  387  java -cp bin Sum
+  388  nano src/Sum.java 
+  389  javac -d bin src/Sum.java
+  390  java -cp bin Sum
+  391  nano src/Sum.java
+  392  javac -d bin src/Sum.java
+  393  java -cp bin Sum
+  394  nano src/Sum.java 
+  395  javac -d bin src/Sum.java
+  396  java -cp bin Sum
+  397  nano src/Sum.java 
+  398  javac -d bin src/Sum.java 
+  399  java -cp bin Sum
+  400  nano src/Sum.java 
+  401  javac -d bin src/Sum.java 
+  402  java -cp bin Sum
+  403  nano src/Sum.java 
+  404  javac -d bin src/Sum.java 
+  405  nano src/Sum.java 
+  406  javac -d bin src/Sum.java 
+  407  nano src/Sum.java 
+  408  javac -d bin src/Sum.java
+  409  java -cp bin Sum
+  410  nano src/Sum.java
+  411  javac -d bin src/Sum.java
+  412  java -cp bin Sum
+  413  nano src/Sum.java
+  414  ewd
+  415  pwd
+  416  nano src/QuickSort.java
+  417  javac -d bin src/QuickSort.java
+  418  nano src/QuickSort.java
+  419  javac -d bin src/QuickSort.java
+  420  nano src/QuickSort.java
+  421  javac -d bin src/QuickSort.java
+  422  java -cp bin QuickSort
+  423  nano src/QuickSort.java
+  424  C:\>\nappletviewer Array.html
+  425  appletviewer Array.html
+  426  ls --l
+  427  java Array.class
+  428  java Array.class
+  429  javac Array.java
+  430  javac Array.class
+  431  java Array.class
+  432  javac Array
+  433  java Array
+  434  java person.class
+  435  java Array.java
+  436  java /Users/evgeniiachak/WorkshopApplets — копия/Chap02/Array.java
+  437  java --version
+  438  javac --version
+  439  appletviewer Array.html
+  440  appletviewer Array.html
+  441  appletviewer Array.html
+  442  java -version
+  443  appletviewer
+  444  Array.html
+  445  appletviewer Array.html
+  446  appletviewer Ordered.html
+  447  appletviewer Ordered.html
+  448  appletviewer.Array.html
+  449  appletviewer Array.html
+  450  appletviewer Array.html
+  451  appletviewer Array.html
+  452  appletviewer Array.html
+  453  appletviewer Ordered.html
+  454  appletviewer Ordered.html
+  455  appletwiever BubbleSort.class
+  456  appletviewer BubbleSort.class
+  457  appletviewer BubbleSort.class
+  458  appletviewer BubbleSort.html
+  459  appletwiever InsertSort.html
+  460  appletwiever InsertSort.html
+  461  appletwiever InsertSort.html
+  462  appletwiever InsertSort.html
+  463  appletviewer InsertSort.html
+  464  appletviewer SelectSort.html
+  465  help cd
+  466  man cd
+  467  git -version
+  468  git --version
+  469  .cd/Macintosh HD/Users/evgeniiachak/desktop/git REPOS
+  470  .cd/Users/Desktop/git REPOS
+  471  .cd/Users/Desktop/git
+  472  .cd//Users/evgeniiachak/Deskto/git
+  473  .cd/Users/evgeniiachak/Desktop/git
+  474  . cd/Users/evgeniiachak/Desktop/git
+  475  .cd/
+  476  .cd/Users/evgeniiachak/Desktop
+  477  .cd/Users/evgeniiachak/Desktop
+  478  cd/Users/evgeniiachak/Desktop/git
+  479  man --cd
+  480  man -cd
+  481  cd/Users/evgeniiachak/Desktop/git
+  482  cd/git
+  483  cd /Users/evgeniiachak/Desktop
+  484  cd /Users/evgeniiachak/Desktop/git
+  485  history -c && rm ~/.bash_history
+  486  git config --global user.name "Yevheniia Chak"
+  487  git config --global user.email melpolza@gmail.com
+  488  git clone https://github.com/MelPolza/HW_10.git
+  489  cd /Users/evgeniiachak/Desktop/git/HW_10
+  490  touch text_ignore.txt
+  491  git status
+  492  git add text_ignore.txt
+  493  git status
+  494  git add.
+  495  git add .
+  496  git commit -m "Task1"
+  497  git status
+  498  touch  main_test.txt
+  499  git add .
+  500  git commit -m "Task2"
+  501  git checkout -b develop
+  502  git checkout develop
+  503  touch develop_test.txt
+  504  git add .
+  505  git commit -m "Task3.4"
+  506  nano develop_test.txt
+  507  git status
+  508  git add .
+  509  git commit -m "Task3.8"
+  510  git checkout main
+  511  git merge develop
+  512  git log
+  513  cd git
+  514  cd /Users/evgeniiachak/Desktop/git
+  515  history -c && rm ~/.bash_history
+  516  git clone HW_10
+  517  git clone https://github.com/MelPolza/HW_10.git
+  518  /Users/evgeniiachak/Desktop/git/HW_10
+  519  cd /Users/evgeniiachak/Desktop/git/HW_10
+  520  touch text_ignore.txt
+  521  nano .gitignore
+  522  git status
+  523  git add .
+  524  git commit "Task1"
+  525  git commit -m "Task1"
+  526  touch main_test.txt
+  527  git add .
+  528  git commit -m "Task2"
+  529  git checkout -b develop
+  530  touch develop_test.txt
+  531  git add .
+  532  git commit -m "Task3.4"
+  533  nano develop_test.txt
+  534  git status
+  535  git add .
+  536  git commit -m "Task3.8"
+  537  git checkout main
+  538  git merge develop
+  539  git log
+  540   command_list.csv
